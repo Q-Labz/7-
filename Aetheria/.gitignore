@@ -1,7 +1,0 @@
-Binaries/
-DerivedDataCache/
-Intermediate/
-Saved/*
-!Saved/Config/
-*.sln
-.vs/
